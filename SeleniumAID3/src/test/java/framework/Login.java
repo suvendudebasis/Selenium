@@ -56,5 +56,8 @@ public class Login {
 		cr.switchTo().alert().accept();
 		cr.quit();
 	}
+	void testcase03(){
+		
+	}
 
 }
